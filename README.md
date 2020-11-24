@@ -15,13 +15,13 @@ If you are not interested type n. ,.the program would straight away move onto th
 next question.
 
 <b> How many courses did you take related to Computer Networks?</b><br>
-NOTE - This has to be an integer
+NOTE - This has to be an integer <br>
 So let’s say you have taken 3 courses , type 3.
 If you have less than 2 courses, the program would straight away move onto the field for the
 next question.
 
 <b> What is your average GPA in the courses you have taken for Computer Networks? </b><br>
-NOTE - This has to be an integer
+NOTE - This has to be an integer <br>
 So let’s say you have taken 8 courses , type 8.
 If you have less than 8 , the program would straight away move onto the field for the next
 question.
