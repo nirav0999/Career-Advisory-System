@@ -49,14 +49,14 @@ n. - interpretation that you may not be suited for a job <br>
 </ol>
 
 Two types of advices are given -
-<h2> Field Advice -</h2> <br>
 
+<h3> Field Advice -</h3> <br>
 <b> What field should you enter? </b> <br>
 There may be multiple recommendations for this out of the 5 field we have given
 A field is only recommended iff #courses you have taken for the field >= 2 and your average
 GPA in those courses >=8.
 
-<b> Immediate Future Advice -</b> <br>
+<h3> Immediate Future Advice - </h3> <br>
 We give our advice on a question which preplexes most B.tech students at IIITD, whether to
 apply for a job as an engineer or to go into a research field.
 Largely we make recommendations based on BTP (favors research), competitive programming
