@@ -1,4 +1,4 @@
-# Career-Advisory-System
+# 🧠 Career-Advisory-System
 A prolog based career advisory system for 3rd-4th year computer science undergraduate students. Provides you the field you should pursue and answers the perpetual question of Job Vs Research. 
 
 <h4>Steps to run the program -</h4>
@@ -67,3 +67,11 @@ As an additional feature, in the spirit of learning in AI, a question in the end
 advice that was provided was useful or NOT. The response is recorded and appended in a txt
 file named as "feedback.txt" along with the answers provided. The operators can check the
 effectiveness of the program this way based on the number of positive reviews
+
+## 👪 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## ⚖️ License
+
+[MIT](https://choosealicense.com/licenses/mit/)
