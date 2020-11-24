@@ -37,17 +37,15 @@ Note that you may be interested in both, any one (or n. in both ).When you give 
 <li> Next the program asks for 3 questions -
 
 <b> Have you done a BTP? </b> <br>
-y. - ​interpretation that you have some research experience
-n. - ​interpretation that you do not have research experience
+y. - interpretation that you have some research experience <br>
+n. - interpretation that you do not have research experience <br>
 
 <b> What is your GPA? </b> <br>
-NOTE - This has to be an integer
->=8. - ​Ramifications for the advice later
-< 8 - ​Ramifications for the advice later
+NOTE - This has to be an integer <br>
 
 <b> Do you have an interest and experience in competitive programming? </b> <br>
-y. - ​interpretation that you may be suited for a job
-n. - ​interpretation that you may not be suited for a job
+y. - interpretation that you may be suited for a job <br>
+n. - interpretation that you may not be suited for a job <br>
 </ol>
 
 Two types of advices are given -
